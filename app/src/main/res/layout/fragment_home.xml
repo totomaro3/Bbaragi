@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_subjectadd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="과목추가"/>
+    <ListView
+        android:id="@+id/lv_subject"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"/>
+    <Button
+        android:id="@+id/btn_init"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="초기화"
+        android:layout_gravity="right"/>
+
+</LinearLayout>

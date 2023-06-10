@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">B바라기 (대학 과제 관리 APP)</string>
+    <string name="title_home">과목</string>
+    <string name="title_dashboard">시간표</string>
+    <string name="title_notifications">과제</string>
+    <string name="title_subjectadd">과목 추가</string>
+
+    <string-array name="startClassTime">
+        <item>1교시 (AM 9:00)</item>
+        <item>2교시 (AM 10:00)</item>
+        <item>3교시 (AM 11:00)</item>
+        <item>4교시 (PM 12:00)</item>
+        <item>5교시 (PM 1:00)</item>
+        <item>6교시 (PM 2:00)</item>
+        <item>7교시 (PM 3:00)</item>
+        <item>8교시 (PM 4:00)</item>
+        <item>9교시 (PM 5:00)</item>
+    </string-array>
+
+    <string-array name="endClassTime">
+        <item>1교시 (AM 10:00)</item>
+        <item>2교시 (AM 11:00)</item>
+        <item>3교시 (PM 12:00)</item>
+        <item>4교시 (PM 1:00)</item>
+        <item>5교시 (PM 2:00)</item>
+        <item>6교시 (PM 3:00)</item>
+        <item>7교시 (PM 4:00)</item>
+        <item>8교시 (PM 5:00)</item>
+        <item>9교시 (PM 6:00)</item>
+    </string-array>
+
+</resources>
